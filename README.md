@@ -14,7 +14,10 @@ The dataset used in this project is publicly available and contains key features
 - **Size**: App size in megabytes.
 - **Content Rating**: Age group suitability.
 - **Genres**: App genres and sub-genres.
-- **Last Updated**: The last date the app was updated.
+- **Last Updated**: The last date the app was updated
+
+![image](https://github.com/user-attachments/assets/73cf66a4-6acb-4753-ba93-59b644674916)
+
 
 ## Power BI Visualizations
 The analysis is presented using the following **Power BI** visualizations:
