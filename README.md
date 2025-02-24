@@ -40,6 +40,8 @@ The analysis is presented using the following **Power BI** visualizations:
 2. **Open the Power BI Report**: Open the `.pbix` file (Power BI file) available in this repository.
 3. **Explore the Dashboards**: Use the interactive filters and slicers to explore different visualizations and insights.
 4. **Modify for Custom Analysis**: Customize the dashboards for any specific analysis you would like to conduct based on your needs.
+5. ![image](https://github.com/user-attachments/assets/27d2a3eb-74c5-486e-9057-e2c9caa8e353)
+
 
 ## Requirements
 - **Power BI Desktop** (latest version).
