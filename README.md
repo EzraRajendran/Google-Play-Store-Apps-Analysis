@@ -1,7 +1,3 @@
-Great! Since you've imported the dataset from **MySQL** into Power BI, you can focus on creating insightful visualizations from your database. Here’s a modified section of the README file to reflect your **MySQL** data source:
-
----
-
 # Google Play Store App Dataset Analysis
 
 ## Overview
