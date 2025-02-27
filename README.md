@@ -42,11 +42,13 @@ After importing the data, the following **Power BI** visualizations were created
 ## Installation and Setup
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Google-Play-Store-App-Dataset-Analysis.git
+   git clone https://github.com/EzraRajendran/Google-Play-Store-Apps-Analysis.git
    ```
 2. Connect Power BI to your MySQL database to retrieve the dataset.
 3. Open the Power BI report file (`Google_Play_Store_Analysis.pbix`) in Power BI Desktop.
 4. Refresh the data from the MySQL database and interact with the visuals.
+
+Let me know if you need further changes!
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
