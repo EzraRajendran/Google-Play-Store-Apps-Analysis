@@ -52,6 +52,6 @@ After importing the data, the following **Power BI** visualizations were created
 
 ## Presentation
 You can view the detailed presentation for this analysis [here](https://1drv.ms/p/c/36b702f7b7989d1c/EVB3TXTlRF1FnnXQaSTOEN8BSO3D_a_Q37wUtFKrikvNpQ?e=aLIVc5).
-Google Slides link: (https://docs.google.com/presentation/d/1Jp1whUrDEiAq6V_C40jcsthkPmmsbEIKGpCOORYqT6c/edit?usp=sharing)
+Google Slides link [here](https://docs.google.com/presentation/d/1Jp1whUrDEiAq6V_C40jcsthkPmmsbEIKGpCOORYqT6c/edit?usp=sharing)
 ## Contributors
 - Ezra Rajendran (Data Visualization and Analysis) [Your LinkedIn Profile](https://www.linkedin.com/in/ezra-rajendran-788380218)
