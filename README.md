@@ -2,6 +2,8 @@
 
 ## Overview
 This project focuses on the analysis and visualization of the **Google Play Store App Dataset** using **Power BI**. The dataset has been imported from **MySQL** and analyzed to provide insights into app ratings, user reviews, pricing strategies, and download trends across different app categories. Power BI dashboards are used to present interactive visualizations for better decision-making.
+![image](https://github.com/user-attachments/assets/e2f8fdc6-56c6-43aa-a689-2daf0e8aea6b)
+
 
 ## Data Source
 The dataset used in this project was sourced from **MySQL**. The key tables and features extracted for the analysis include:
@@ -20,7 +22,7 @@ The data was queried from the **MySQL database** and imported into **Power BI** 
 
 ## Power BI Visualizations
 After importing the data, the following **Power BI** visualizations were created:
-1. **App Rating Distribution**: A bar chart visualizing the distribution of app ratings across different categories.
+1. **App Ratings Distribution**: A bar chart visualizing the distribution of app ratings across different categories.
 2. **Top Categories by Installs**: A column chart showing the most popular app categories based on the number of installs.
 3. **Price vs. Installs**: A scatter plot showing the relationship between app pricing and the number of installs.
 4. **Review Analysis**: A line graph analyzing the correlation between user reviews and app ratings over time.
@@ -48,7 +50,8 @@ After importing the data, the following **Power BI** visualizations were created
 3. Open the Power BI report file (`Google_Play_Store_Analysis.pbix`) in Power BI Desktop.
 4. Refresh the data from the MySQL database and interact with the visuals.
 
-Let me know if you need further changes!
+## Presentation
+You can view the detailed presentation for this analysis [here](https://1drv.ms/p/c/36b702f7b7989d1c/EVB3TXTlRF1FnnXQaSTOEN8BSO3D_a_Q37wUtFKrikvNpQ?e=aLIVc5).
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
